@@ -1,4 +1,4 @@
-**Problem Statement: Huffman Coding for Efficient Data Compression**
+Huffman Coding for Efficient Data
 
 In the era of digital communication and storage, efficient data compression algorithms play a crucial role in optimizing resource utilization and transmission speed. Huffman coding, a widely adopted technique, helps achieve this by assigning shorter codes to more frequently occurring characters in a given dataset. This minimizes the overall length of the encoded data, reducing storage requirements and enhancing data transfer efficiency. Your task is to develop a Python program that leverages Huffman coding to compress and decompress user-inputted strings. The program should include components such as a `Node` class for constructing the Huffman tree, functions to build the tree and generate codes, and an interface for encoding and decoding. The goal is to create a versatile and user-friendly tool that showcases the importance of Huffman coding in the realm of data compression. Ensure adherence to PEP 8 style guidelines, provide informative user prompts, and thoroughly test the program's functionality with diverse datasets.
 
